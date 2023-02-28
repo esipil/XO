@@ -1,0 +1,42 @@
+body {
+    /* background-color: aqua; */
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+    margin:auto;
+}
+.first-div {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second-div{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.third-div{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h_line {
+    border-bottom: 3px solid rgb(80, 80, 78);
+    margin: auto;
+    width: 300px;
+}
+.v_line {
+    border-left: 3px solid rgb(80, 80, 78);
+    height: 100px;
+    width: 3px; 
+}
