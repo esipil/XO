@@ -1,6 +1,15 @@
 body {
     /* background-color: aqua; */
 }
+.header-div{
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+.player{
+    text-align: center;
+    margin-bottom: 2%;
+}
 .main-container{
     display: flex;
     justify-content: center;
