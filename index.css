@@ -32,7 +32,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-.third-div{
+.square{
     width: 100px;
     height: 100px;
     display: flex;
@@ -48,4 +48,8 @@ body {
     border-left: 3px solid rgb(80, 80, 78);
     height: 100px;
     width: 3px; 
+}
+.winner {
+    text-align: center;
+    margin-top: 6%;
 }
